@@ -1,10 +1,10 @@
-# Power-BI-Dashboard
+Power-BI-Dashboard
 Superstore Sales Analysis (Power BI Project)
 This project is my Power BI dashboard built on the Superstore Sales dataset (2019–2020). The goal was to explore and visualize sales performance, profitability, customer segments, and regional insights using interactive dashboards.
 
-** Key Insights from the Dashboard:**
+**Key Insights from the Dashboard:**
 
-**-->Overall Performance:**  
+**Overall Performance:**  
 
    Total Sales: $1.6M
    
@@ -14,7 +14,7 @@ This project is my Power BI dashboard built on the Superstore Sales dataset (201
    
    Average Delivery Time: 4 days
 
-**-->Category & Sub-Category Analysis:**
+**Category & Sub-Category Analysis:**
 
    Top-performing categories: Office Supplies ($0.64M), Technology ($0.47M), Furniture ($0.45M)
    
@@ -28,11 +28,11 @@ This project is my Power BI dashboard built on the Superstore Sales dataset (201
    
    Regional & State Insights:Strongest sales came from California ($0.11M), New York ($0.08M), and Texas ($0.04M). West and East regions showed higher sales compared to South and Central regions.
 
-**-->Trends (YoY):**
+**Trends (YoY):**
    
    Monthly analysis revealed seasonal peaks in December with noticeable fluctuations in sales and profit across 2019–2020.
 
-**-->Tools Used**
+**Tools Used**
    
    Power BI Desktop for dashboard creation
    
